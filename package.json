@@ -1,0 +1,16 @@
+{
+  "name": "armaduras3d-logica",
+  "version": "0.0.1",
+  "description": "método matricial de rigideces en armaduras 3d",
+  "main": "src/main.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "rigideces",
+    "typescript",
+    "armaduras3d"
+  ],
+  "author": "eder3232",
+  "license": "ISC"
+}
